@@ -1,3 +1,3 @@
 EXERCISES
 
-Hands-On exercise are included in the index.html file.
+Hands-On exercise are included in exerciseNAME_index.html files.
